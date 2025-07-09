@@ -1,2 +1,1 @@
-# QuantumTestnetPlatformCoreNext
-Advanced QuantumTestnetPlatformCoreNext project
+.
